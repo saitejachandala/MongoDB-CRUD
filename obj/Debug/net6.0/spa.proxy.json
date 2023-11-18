@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44434",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\USER\\Desktop\\Desktop Files\\Development\\WebApiMongoDB\\WebApiMongoDB\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
